@@ -2,5 +2,12 @@ sdfsdfsdfsdf
 
 
 
+<<<<<<< HEAD
 fghdhdfhdtgh
-printf("¿À´Ã ³¯¾¾´Â Èå¸²");
+
+
+
+dsdsdsds
+=======
+fghdhdfhdtgh
+>>>>>>> parent of 8b0796a (no message)
